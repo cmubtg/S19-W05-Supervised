@@ -1,2 +1,2 @@
 # S19-W05-Supervised
-Python supervised learning workshop
+CMU BTG Python supervised learning workshop
