@@ -1,2 +1,2 @@
-# S19-W05-Supervised
-CMU BTG Python supervised learning workshop
+# Workshop 05: Supervised Machine Learning
+Supervised Machine Learning Workshop for Spring 2019.
